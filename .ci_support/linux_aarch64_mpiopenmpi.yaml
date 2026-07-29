@@ -1,13 +1,13 @@
 aws_c_auth:
 - 0.10.4
 aws_c_common:
-- 0.14.2
+- 0.14.3
 aws_c_http:
 - 0.11.0
 aws_c_io:
-- 0.27.3
+- 0.27.5
 aws_c_s3:
-- 0.12.8
+- 0.13.1
 aws_c_sdkutils:
 - 0.2.7
 c_compiler:
@@ -27,7 +27,7 @@ cxx_compiler:
 cxx_compiler_version:
 - '14'
 docker_image:
-- quay.io/condaforge/linux-anvil-x86_64:alma9
+- quay.io/condaforge/linux-anvil-x86_64:alma10
 fortran_compiler:
 - gfortran
 fortran_compiler_version:
